@@ -313,6 +313,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		// 現在のシーンを表示
 		ImGui::Text("Current Scene: %s", sceneManager.GetCurrentSceneName());
 
+
 		//ImGui::Begin("Settings");
 
 		// Color Edit ウィンドウ
